@@ -1,0 +1,1001 @@
+round,player1_stack,opponent_stack,winner,actions
+1,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+2,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+3,1020,980,Player1,0 call:20
+4,1010,990,Player1,no_actions
+5,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+6,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+7,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+8,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+9,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+10,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+11,960,1040,Opponent,0 call:20;0 call:0;0 call:0;0 call:20
+12,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+13,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+14,1020,980,Player1,0 call:20;0 call:0;0 call:0
+15,1020,980,Player1,0 call:20;0 call:0
+16,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+17,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+18,1030,970,Player1,0 call:30;0 call:0
+19,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+20,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+21,1010,990,Player1,no_actions
+22,1020,980,Player1,0 call:20
+23,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+24,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+25,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+26,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+27,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+28,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+29,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+30,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+31,960,1040,Opponent,0 call:20;0 call:20;0 call:0;0 call:0
+32,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+33,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+34,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+35,1040,960,Player1,0 call:20;0 call:0;0 call:0;0 call:20
+36,1010,990,Player1,no_actions
+37,1020,980,Player1,0 call:20;0 call:0
+38,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+39,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+40,1020,980,Player1,0 call:20;0 call:0
+41,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+42,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+43,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+44,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+45,1020,980,Player1,0 call:20;0 call:0;0 call:0
+46,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+47,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+48,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+49,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+50,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+51,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+52,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+53,1020,980,Player1,0 call:20;0 call:0;0 call:0
+54,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+55,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+56,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+57,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+58,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+59,1020,980,Player1,0 call:20
+60,1020,980,Player1,0 call:20;0 call:0;0 call:0
+61,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+62,1020,980,Player1,0 call:20;0 call:0
+63,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+64,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+65,1010,990,Player1,no_actions
+66,1040,960,Player1,0 call:20;0 call:0;0 call:20;0 call:0
+67,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+68,1020,980,Player1,0 call:20
+69,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+70,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+71,1020,980,Player1,0 call:20
+72,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+73,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+74,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+75,1010,990,Player1,no_actions
+76,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+77,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+78,960,1040,Opponent,0 call:20;0 call:0;0 call:20;0 call:0
+79,1020,980,Player1,0 call:20;0 call:0
+80,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+81,1020,980,Player1,0 call:20
+82,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+83,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+84,1020,980,Player1,0 call:20;0 call:0;0 call:0
+85,1020,980,Player1,0 call:20;0 call:0
+86,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+87,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+88,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+89,1020,980,Player1,0 call:20
+90,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+91,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+92,1040,960,Player1,0 call:20;0 call:0;0 call:20;0 call:0
+93,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+94,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+95,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+96,1020,980,Player1,0 call:20;0 call:0;0 call:0
+97,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+98,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+99,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+100,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+101,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+102,1010,990,Player1,no_actions
+103,1020,980,Player1,0 call:20;0 call:0;0 call:0
+104,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+105,1020,980,Player1,0 call:20;0 call:0;0 call:0
+106,1020,980,Player1,0 call:20
+107,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+108,1010,990,Player1,no_actions
+109,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+110,1020,980,Player1,0 call:20
+111,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+112,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+113,1010,990,Player1,no_actions
+114,1020,980,Player1,0 call:20;0 call:0
+115,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+116,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+117,1020,980,Player1,0 call:20
+118,960,1040,Opponent,0 call:20;0 call:0;0 call:0;0 call:20
+119,1020,980,Player1,0 call:20;0 call:0
+120,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+121,1020,980,Player1,0 call:20
+122,1020,980,Player1,0 call:20;0 call:0
+123,1020,980,Player1,0 call:20;0 call:0;0 call:0
+124,1020,980,Player1,0 call:20
+125,1020,980,Player1,0 call:20;0 call:0
+126,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+127,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+128,960,1040,Opponent,0 call:20;0 call:0;0 call:0;0 call:20
+129,1020,980,Player1,0 call:20;0 call:0
+130,1020,980,Player1,0 call:20;0 call:0
+131,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+132,1010,990,Player1,no_actions
+133,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+134,1010,990,Player1,no_actions
+135,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+136,1020,980,Player1,0 call:20;0 call:0
+137,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+138,1020,980,Player1,0 call:20
+139,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+140,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+141,1010,990,Player1,no_actions
+142,1020,980,Player1,0 call:20;0 call:0
+143,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+144,1030,970,Player1,0 call:30;0 call:0;0 call:0;0 call:0
+145,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+146,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+147,1020,980,Player1,0 call:20
+148,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+149,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+150,1020,980,Player1,0 call:20
+151,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+152,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+153,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+154,1020,980,Player1,0 call:20;0 call:0;0 call:0
+155,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+156,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+157,1020,980,Player1,0 call:20
+158,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+159,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+160,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+161,1020,980,Player1,0 call:20;0 call:0
+162,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+163,1020,980,Player1,0 call:20
+164,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+165,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+166,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+167,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+168,1020,980,Player1,0 call:20;0 call:0;0 call:0
+169,1010,990,Player1,no_actions
+170,1000,1000,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+171,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+172,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+173,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+174,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+175,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+176,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+177,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+178,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+179,1020,980,Player1,0 call:20;0 call:0;0 call:0
+180,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+181,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+182,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+183,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+184,1010,990,Player1,no_actions
+185,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+186,1010,990,Player1,no_actions
+187,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+188,1010,990,Player1,no_actions
+189,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+190,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+191,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+192,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+193,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+194,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+195,1020,980,Player1,0 call:20;0 call:0
+196,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+197,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+198,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+199,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+200,1010,990,Player1,no_actions
+201,1040,960,Player1,0 call:20;0 call:20;0 call:0
+202,1010,990,Player1,no_actions
+203,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+204,1020,980,Player1,0 call:20;0 call:0;0 call:0
+205,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+206,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+207,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+208,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+209,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+210,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+211,1020,980,Player1,0 call:20;0 call:0
+212,1020,980,Player1,0 call:20
+213,1010,990,Player1,no_actions
+214,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+215,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+216,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+217,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+218,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+219,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+220,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+221,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+222,1020,980,Player1,0 call:20
+223,1020,980,Player1,0 call:20
+224,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+225,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+226,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+227,1020,980,Player1,0 call:20;0 call:0;0 call:0
+228,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+229,1010,990,Player1,no_actions
+230,1010,990,Player1,no_actions
+231,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+232,1020,980,Player1,0 call:20
+233,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+234,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+235,1020,980,Player1,0 call:20
+236,1010,990,Player1,no_actions
+237,970,1030,Opponent,0 call:30;0 call:0;0 call:0;0 call:0
+238,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+239,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+240,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+241,1010,990,Player1,no_actions
+242,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+243,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+244,1020,980,Player1,0 call:20;0 call:0
+245,1020,980,Player1,0 call:20;0 call:0;0 call:0
+246,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+247,1020,980,Player1,0 call:20;0 call:0
+248,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+249,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+250,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+251,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+252,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+253,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+254,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+255,1020,980,Player1,0 call:20
+256,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+257,1020,980,Player1,0 call:20;0 call:0;0 call:0
+258,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+259,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+260,960,1040,Opponent,0 call:20;0 call:20;0 call:0;0 call:0
+261,1010,990,Player1,no_actions
+262,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+263,1020,980,Player1,0 call:20;0 call:0;0 call:0
+264,1010,990,Player1,no_actions
+265,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+266,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+267,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+268,1020,980,Player1,0 call:20
+269,1020,980,Player1,0 call:20;0 call:0;0 call:0
+270,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+271,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+272,1010,990,Player1,no_actions
+273,1040,960,Player1,0 call:20;0 call:0;0 call:0;0 call:20
+274,1020,980,Player1,0 call:20;0 call:0
+275,1020,980,Player1,0 call:20
+276,1010,990,Player1,no_actions
+277,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+278,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+279,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+280,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+281,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+282,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+283,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+284,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+285,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+286,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+287,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+288,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+289,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+290,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+291,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+292,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+293,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+294,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+295,1020,980,Player1,0 call:20;0 call:0
+296,1020,980,Player1,0 call:20;0 call:0
+297,1020,980,Player1,0 call:20;0 call:0
+298,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+299,1020,980,Player1,0 call:20
+300,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+301,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+302,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+303,1020,980,Player1,0 call:20
+304,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+305,1020,980,Player1,0 call:20;0 call:0;0 call:0
+306,960,1040,Opponent,0 call:20;0 call:0;0 call:20;0 call:0
+307,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+308,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+309,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+310,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+311,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+312,1010,990,Player1,no_actions
+313,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+314,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+315,1020,980,Player1,0 call:20;0 call:0
+316,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+317,1020,980,Player1,0 call:20
+318,1020,980,Player1,0 call:20
+319,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+320,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+321,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+322,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+323,1020,980,Player1,0 call:20
+324,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+325,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+326,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+327,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+328,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+329,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+330,1020,980,Player1,0 call:20;0 call:0;0 call:0
+331,1010,990,Player1,no_actions
+332,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+333,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+334,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+335,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+336,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+337,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+338,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+339,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+340,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+341,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+342,1020,980,Player1,0 call:20;0 call:0;0 call:0
+343,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+344,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+345,1040,960,Player1,0 call:20;0 call:20;0 call:0;0 call:0
+346,1010,990,Player1,no_actions
+347,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+348,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+349,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+350,1010,990,Player1,no_actions
+351,960,1040,Opponent,0 call:20;0 call:0;0 call:20;0 call:0
+352,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+353,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+354,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+355,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+356,1010,990,Player1,no_actions
+357,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+358,1010,990,Player1,no_actions
+359,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+360,1020,980,Player1,0 call:20;0 call:0
+361,1020,980,Player1,0 call:20
+362,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+363,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+364,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+365,1020,980,Player1,0 call:20;0 call:0
+366,1020,980,Player1,0 call:20;0 call:0
+367,1010,990,Player1,no_actions
+368,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+369,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+370,1020,980,Player1,0 call:20;0 call:0;0 call:0
+371,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+372,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+373,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+374,1020,980,Player1,0 call:20
+375,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+376,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+377,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+378,1020,980,Player1,0 call:20;0 call:0;0 call:0
+379,1020,980,Player1,0 call:20;0 call:0;0 call:0
+380,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+381,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+382,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+383,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+384,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+385,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+386,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+387,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+388,1010,990,Player1,no_actions
+389,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+390,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+391,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+392,1020,980,Player1,0 call:20;0 call:0;0 call:0
+393,1000,1000,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+394,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+395,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+396,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+397,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+398,1010,990,Player1,no_actions
+399,1010,990,Player1,no_actions
+400,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+401,1020,980,Player1,0 call:20
+402,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+403,1000,1000,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+404,1020,980,Player1,0 call:20
+405,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+406,1010,990,Player1,no_actions
+407,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+408,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+409,1040,960,Player1,0 call:20;0 call:0;0 call:0;0 call:20
+410,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+411,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+412,1020,980,Player1,0 call:20
+413,1010,990,Player1,no_actions
+414,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+415,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+416,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+417,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+418,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+419,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+420,960,1040,Opponent,0 call:20;0 call:20;0 call:0;0 call:0
+421,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+422,1010,990,Player1,no_actions
+423,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+424,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+425,1020,980,Player1,0 call:20
+426,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+427,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+428,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+429,950,1050,Opponent,0 call:30;0 call:0;0 call:0;0 call:20
+430,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+431,1020,980,Player1,0 call:20;0 call:0;0 call:0
+432,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+433,1020,980,Player1,0 call:20
+434,1010,990,Player1,no_actions
+435,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+436,1020,980,Player1,0 call:20;0 call:0;0 call:0
+437,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+438,1010,990,Player1,no_actions
+439,1020,980,Player1,0 call:20
+440,1020,980,Player1,0 call:20
+441,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+442,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+443,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+444,1010,990,Player1,no_actions
+445,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+446,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+447,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+448,1020,980,Player1,0 call:20
+449,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+450,1010,990,Player1,no_actions
+451,1010,990,Player1,no_actions
+452,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+453,1020,980,Player1,0 call:20;0 call:0
+454,1020,980,Player1,0 call:20;0 call:0
+455,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+456,1020,980,Player1,0 call:20;0 call:0;0 call:0
+457,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+458,1020,980,Player1,0 call:20;0 call:0;0 call:0
+459,1010,990,Player1,no_actions
+460,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+461,1020,980,Player1,0 call:20
+462,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+463,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+464,1020,980,Player1,0 call:20;0 call:0
+465,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+466,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+467,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+468,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+469,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+470,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+471,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+472,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+473,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+474,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+475,1020,980,Player1,0 call:20
+476,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+477,960,1040,Opponent,0 call:20;0 call:0;0 call:0;0 call:20
+478,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+479,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+480,1020,980,Player1,0 call:20;0 call:0
+481,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+482,1010,990,Player1,no_actions
+483,1020,980,Player1,0 call:20
+484,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+485,1020,980,Player1,0 call:20
+486,1020,980,Player1,0 call:20;0 call:0;0 call:0
+487,1020,980,Player1,0 call:20;0 call:0
+488,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+489,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+490,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+491,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+492,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+493,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+494,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+495,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+496,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+497,960,1040,Opponent,0 call:20;0 call:0;0 call:20;0 call:0
+498,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+499,1020,980,Player1,0 call:20;0 call:0
+500,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+501,1020,980,Player1,0 call:20
+502,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+503,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+504,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+505,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+506,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+507,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+508,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+509,1020,980,Player1,0 call:20;0 call:0
+510,1030,970,Player1,0 call:30
+511,1020,980,Player1,0 call:20;0 call:0
+512,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+513,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+514,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+515,1010,990,Player1,no_actions
+516,1020,980,Player1,0 call:20
+517,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+518,1020,980,Player1,0 call:20;0 call:0;0 call:0
+519,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+520,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+521,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+522,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+523,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+524,1020,980,Player1,0 call:20;0 call:0
+525,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+526,1020,980,Player1,0 call:20;0 call:0
+527,1010,990,Player1,no_actions
+528,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+529,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+530,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+531,1010,990,Player1,no_actions
+532,1020,980,Player1,0 call:20;0 call:0
+533,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+534,1020,980,Player1,0 call:20;0 call:0;0 call:0
+535,1010,990,Player1,no_actions
+536,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+537,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+538,970,1030,Opponent,0 call:30;0 call:0;0 call:0;0 call:0
+539,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+540,1040,960,Player1,0 call:20;0 call:0;0 call:20;0 call:0
+541,1020,980,Player1,0 call:20;0 call:0;0 call:0
+542,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+543,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+544,960,1040,Opponent,0 call:20;0 call:20;0 call:0;0 call:0
+545,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+546,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+547,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+548,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+549,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+550,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+551,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+552,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+553,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+554,1020,980,Player1,0 call:20;0 call:0
+555,1020,980,Player1,0 call:20;0 call:0
+556,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+557,1010,990,Player1,no_actions
+558,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+559,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+560,1010,990,Player1,no_actions
+561,1020,980,Player1,0 call:20;0 call:0
+562,1020,980,Player1,0 call:20
+563,1020,980,Player1,0 call:20;0 call:0;0 call:0
+564,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+565,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+566,1020,980,Player1,0 call:20
+567,1020,980,Player1,0 call:20;0 call:0
+568,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+569,1030,970,Player1,0 call:30;0 call:0;0 call:0;0 call:0
+570,1020,980,Player1,0 call:20
+571,1020,980,Player1,0 call:20
+572,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+573,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+574,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+575,1020,980,Player1,0 call:20;0 call:0
+576,1010,990,Player1,no_actions
+577,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+578,1020,980,Player1,0 call:20
+579,1020,980,Player1,0 call:20
+580,1020,980,Player1,0 call:20
+581,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+582,1010,990,Player1,no_actions
+583,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+584,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+585,1020,980,Player1,0 call:20;0 call:0
+586,1020,980,Player1,0 call:20;0 call:0
+587,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+588,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+589,1020,980,Player1,0 call:20
+590,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+591,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+592,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+593,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+594,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+595,1020,980,Player1,0 call:20;0 call:0;0 call:0
+596,1020,980,Player1,0 call:20;0 call:0;0 call:0
+597,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+598,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+599,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+600,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+601,1010,990,Player1,no_actions
+602,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+603,1020,980,Player1,0 call:20
+604,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+605,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+606,1020,980,Player1,0 call:20;0 call:0
+607,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+608,1020,980,Player1,0 call:20
+609,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+610,1020,980,Player1,0 call:20;0 call:0
+611,1020,980,Player1,0 call:20;0 call:0
+612,1020,980,Player1,0 call:20;0 call:0
+613,1020,980,Player1,0 call:20
+614,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+615,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+616,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+617,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+618,1010,990,Player1,no_actions
+619,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+620,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+621,1010,990,Player1,no_actions
+622,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+623,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+624,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+625,1020,980,Player1,0 call:20;0 call:0
+626,1020,980,Player1,0 call:20;0 call:0
+627,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+628,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+629,1010,990,Player1,no_actions
+630,1020,980,Player1,0 call:20;0 call:0
+631,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+632,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+633,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+634,1020,980,Player1,0 call:20;0 call:0
+635,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+636,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+637,1020,980,Player1,0 call:20;0 call:0
+638,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+639,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+640,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+641,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+642,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+643,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+644,960,1040,Opponent,0 call:20;0 call:0;0 call:20;0 call:0
+645,1020,980,Player1,0 call:20
+646,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+647,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+648,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+649,1020,980,Player1,0 call:20;0 call:0;0 call:0
+650,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+651,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+652,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+653,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+654,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+655,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+656,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+657,1010,990,Player1,no_actions
+658,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+659,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+660,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+661,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+662,1020,980,Player1,0 call:20;0 call:0;0 call:0
+663,1020,980,Player1,0 call:20
+664,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+665,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+666,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+667,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+668,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+669,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+670,1020,980,Player1,0 call:20;0 call:0;0 call:0
+671,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+672,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+673,1020,980,Player1,0 call:20;0 call:0;0 call:0
+674,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+675,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+676,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+677,1020,980,Player1,0 call:20;0 call:0
+678,1020,980,Player1,0 call:20
+679,1020,980,Player1,0 call:20;0 call:0;0 call:0
+680,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+681,1010,990,Player1,no_actions
+682,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+683,1020,980,Player1,0 call:20;0 call:0
+684,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+685,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+686,1020,980,Player1,0 call:20;0 call:0;0 call:0
+687,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+688,1020,980,Player1,0 call:20;0 call:0;0 call:0
+689,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+690,1030,970,Player1,0 call:30;0 call:0;0 call:0;0 call:0
+691,1020,980,Player1,0 call:20;0 call:0;0 call:0
+692,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+693,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+694,1010,990,Player1,no_actions
+695,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+696,1020,980,Player1,0 call:20;0 call:0
+697,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+698,1010,990,Player1,no_actions
+699,1020,980,Player1,0 call:20;0 call:0;0 call:0
+700,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+701,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+702,1020,980,Player1,0 call:20;0 call:0;0 call:0
+703,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+704,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+705,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+706,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+707,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+708,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+709,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+710,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+711,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+712,1020,980,Player1,0 call:20
+713,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+714,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+715,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+716,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+717,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+718,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+719,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+720,1030,970,Player1,0 call:30;0 call:0;0 call:0;0 call:0
+721,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+722,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+723,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+724,1010,990,Player1,no_actions
+725,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+726,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+727,1010,990,Player1,no_actions
+728,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+729,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+730,1010,990,Player1,no_actions
+731,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+732,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+733,1020,980,Player1,0 call:20;0 call:0;0 call:0
+734,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+735,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+736,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+737,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+738,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+739,1020,980,Player1,0 call:20
+740,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+741,1020,980,Player1,0 call:20;0 call:0;0 call:0
+742,1010,990,Player1,no_actions
+743,1020,980,Player1,0 call:20;0 call:0
+744,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+745,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+746,1020,980,Player1,0 call:20;0 call:0
+747,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+748,1020,980,Player1,0 call:20;0 call:0;0 call:0
+749,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+750,1020,980,Player1,0 call:20;0 call:0;0 call:0
+751,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+752,1040,960,Player1,0 call:20;0 call:0;0 call:20;0 call:0
+753,1020,980,Player1,0 call:20;0 call:0
+754,1020,980,Player1,0 call:20;0 call:0
+755,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+756,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+757,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+758,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+759,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+760,1010,990,Player1,no_actions
+761,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+762,1040,960,Player1,0 call:20;0 call:0;0 call:20;0 call:0
+763,1020,980,Player1,0 call:20;0 call:0;0 call:0
+764,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+765,1020,980,Player1,0 call:20;0 call:0
+766,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+767,1020,980,Player1,0 call:20;0 call:0
+768,1020,980,Player1,0 call:20;0 call:0;0 call:0
+769,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+770,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+771,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+772,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+773,1020,980,Player1,0 call:20;0 call:0;0 call:0
+774,970,1030,Opponent,0 call:30;0 call:0;0 call:0;0 call:0
+775,1020,980,Player1,0 call:20;0 call:0
+776,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+777,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+778,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+779,1020,980,Player1,0 call:20
+780,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+781,1020,980,Player1,0 call:20;0 call:0
+782,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+783,1010,990,Player1,no_actions
+784,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+785,1020,980,Player1,0 call:20;0 call:0;0 call:0
+786,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+787,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+788,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+789,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+790,1010,990,Player1,no_actions
+791,1020,980,Player1,0 call:20
+792,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+793,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+794,1020,980,Player1,0 call:20;0 call:0;0 call:0
+795,1020,980,Player1,0 call:20
+796,1020,980,Player1,0 call:20;0 call:0;0 call:0
+797,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+798,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+799,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+800,1010,990,Player1,no_actions
+801,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+802,960,1040,Opponent,0 call:20;0 call:0;0 call:20;0 call:0
+803,1020,980,Player1,0 call:20
+804,1020,980,Player1,0 call:20
+805,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+806,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+807,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+808,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+809,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+810,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+811,1020,980,Player1,0 call:20;0 call:0
+812,1020,980,Player1,0 call:20;0 call:0
+813,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+814,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+815,1010,990,Player1,no_actions
+816,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+817,960,1040,Opponent,0 call:20;0 call:20;0 call:0;0 call:0
+818,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+819,1020,980,Player1,0 call:20;0 call:0
+820,1020,980,Player1,0 call:20;0 call:0;0 call:0
+821,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+822,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+823,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+824,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+825,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+826,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+827,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+828,1020,980,Player1,0 call:20;0 call:0
+829,1020,980,Player1,0 call:20;0 call:0
+830,1040,960,Player1,0 call:20;0 call:20;0 call:0;0 call:0
+831,1030,970,Player1,0 call:30;0 call:0;0 call:0;0 call:0
+832,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+833,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+834,1020,980,Player1,0 call:20;0 call:0
+835,1020,980,Player1,0 call:20
+836,1000,1000,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+837,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+838,1010,990,Player1,no_actions
+839,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+840,1020,980,Player1,0 call:20;0 call:0
+841,1020,980,Player1,0 call:20;0 call:0
+842,1020,980,Player1,0 call:20;0 call:0;0 call:0
+843,1020,980,Player1,0 call:20;0 call:0
+844,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+845,1020,980,Player1,0 call:20;0 call:0
+846,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+847,1010,990,Player1,no_actions
+848,1040,960,Player1,0 call:20;0 call:0;0 call:0;0 call:20
+849,1010,990,Player1,no_actions
+850,1020,980,Player1,0 call:20;0 call:0
+851,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+852,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+853,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+854,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+855,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+856,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+857,1020,980,Player1,0 call:20;0 call:0
+858,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+859,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+860,1020,980,Player1,0 call:20
+861,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+862,1020,980,Player1,0 call:20
+863,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+864,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+865,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+866,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+867,1020,980,Player1,0 call:20
+868,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+869,1020,980,Player1,0 call:20
+870,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+871,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+872,1020,980,Player1,0 call:20
+873,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+874,1000,1000,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+875,1020,980,Player1,0 call:20;0 call:0
+876,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+877,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+878,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+879,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+880,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+881,1020,980,Player1,0 call:20
+882,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+883,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+884,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+885,1020,980,Player1,0 call:20;0 call:0;0 call:0
+886,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+887,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+888,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+889,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+890,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+891,1020,980,Player1,0 call:20;0 call:0
+892,1020,980,Player1,0 call:20;0 call:0;0 call:0
+893,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+894,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+895,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+896,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+897,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+898,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+899,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+900,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+901,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+902,960,1040,Opponent,0 call:20;0 call:20;0 call:0;0 call:0
+903,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+904,1010,990,Player1,no_actions
+905,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+906,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+907,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+908,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+909,1020,980,Player1,0 call:20;0 call:0
+910,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+911,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+912,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+913,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+914,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+915,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+916,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+917,1020,980,Player1,0 call:20;0 call:0
+918,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+919,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+920,1020,980,Player1,0 call:20
+921,1020,980,Player1,0 call:20
+922,1020,980,Player1,0 call:20;0 call:0
+923,1040,960,Player1,0 call:20;0 call:0;0 call:20;0 call:0
+924,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+925,1020,980,Player1,0 call:20;0 call:0
+926,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+927,1020,980,Player1,0 call:20;0 call:0;0 call:0
+928,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+929,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+930,1020,980,Player1,0 call:20;0 call:0
+931,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+932,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+933,1020,980,Player1,0 call:20;0 call:0
+934,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+935,960,1040,Opponent,0 call:20;0 call:20;0 call:0;0 call:0
+936,1020,980,Player1,0 call:20;0 call:0
+937,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+938,1020,980,Player1,0 call:20
+939,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+940,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+941,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+942,1010,990,Player1,no_actions
+943,960,1040,Opponent,0 call:20;0 call:20;0 call:0;0 call:0
+944,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+945,1020,980,Player1,0 call:20;0 call:0
+946,1020,980,Player1,0 call:20;0 call:0
+947,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+948,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+949,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+950,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+951,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+952,1020,980,Player1,0 call:20;0 call:0;0 call:0
+953,1020,980,Player1,0 call:20;0 call:0
+954,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+955,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+956,1010,990,Player1,no_actions
+957,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+958,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+959,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+960,1020,980,Player1,0 call:20;0 call:0
+961,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+962,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+963,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+964,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+965,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+966,1020,980,Player1,0 call:20;0 call:0;0 call:0
+967,1020,980,Player1,0 call:20;0 call:0;0 call:0
+968,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+969,1010,990,Player1,no_actions
+970,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+971,1020,980,Player1,0 call:20;0 call:0
+972,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+973,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+974,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+975,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+976,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+977,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+978,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+979,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+980,1040,960,Player1,0 call:20;0 call:20;0 call:0;0 call:0
+981,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+982,1020,980,Player1,0 call:20
+983,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+984,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+985,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+986,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+987,1020,980,Player1,0 call:20;0 call:0;0 call:0
+988,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+989,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+990,1020,980,Player1,0 call:20;0 call:0;0 call:0
+991,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+992,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+993,1020,980,Player1,0 call:20;0 call:0
+994,960,1040,Opponent,0 call:20;0 call:0;0 call:20;0 call:0
+995,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+996,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+997,1020,980,Player1,0 call:20;0 call:0;0 call:0;0 call:0
+998,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0
+999,1010,990,Player1,no_actions
+1000,980,1020,Opponent,0 call:20;0 call:0;0 call:0;0 call:0

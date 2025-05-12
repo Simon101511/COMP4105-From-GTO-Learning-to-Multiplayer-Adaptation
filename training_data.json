@@ -1,0 +1,141 @@
+[
+  "0 call:20",
+  {
+    "player_uuid": "nkvvwutfgirzoquzoylgcv",
+    "hole_card": [
+      "CQ",
+      "C2"
+    ],
+    "community_card": [],
+    "street": "preflop",
+    "player_stack": 980,
+    "valid_actions": [
+      {
+        "action": "fold",
+        "amount": 0
+      },
+      {
+        "action": "call",
+        "amount": 20
+      },
+      {
+        "action": "raise",
+        "amount": {
+          "min": 30,
+          "max": 1000
+        }
+      }
+    ],
+    "action_taken": "call",
+    "amount": 20,
+    "reward": null
+  },
+  {
+    "player_uuid": "nkvvwutfgirzoquzoylgcv",
+    "hole_card": [
+      "CQ",
+      "C2"
+    ],
+    "community_card": [
+      "CT",
+      "C5",
+      "H2"
+    ],
+    "street": "flop",
+    "player_stack": 980,
+    "valid_actions": [
+      {
+        "action": "fold",
+        "amount": 0
+      },
+      {
+        "action": "call",
+        "amount": 20
+      },
+      {
+        "action": "raise",
+        "amount": {
+          "min": 40,
+          "max": 980
+        }
+      }
+    ],
+    "action_taken": "call",
+    "amount": 20,
+    "reward": null
+  },
+  {
+    "player_uuid": "nkvvwutfgirzoquzoylgcv",
+    "hole_card": [
+      "CQ",
+      "C2"
+    ],
+    "community_card": [
+      "CT",
+      "C5",
+      "H2",
+      "DK"
+    ],
+    "street": "turn",
+    "player_stack": 960,
+    "valid_actions": [
+      {
+        "action": "fold",
+        "amount": 0
+      },
+      {
+        "action": "call",
+        "amount": 20
+      },
+      {
+        "action": "raise",
+        "amount": {
+          "min": 40,
+          "max": 960
+        }
+      }
+    ],
+    "action_taken": "call",
+    "amount": 20,
+    "reward": null
+  },
+  {
+    "player_uuid": "nkvvwutfgirzoquzoylgcv",
+    "hole_card": [
+      "CQ",
+      "C2"
+    ],
+    "community_card": [
+      "CT",
+      "C5",
+      "H2",
+      "DK",
+      "DA"
+    ],
+    "street": "river",
+    "player_stack": 940,
+    "valid_actions": [
+      {
+        "action": "fold",
+        "amount": 0
+      },
+      {
+        "action": "call",
+        "amount": 0
+      },
+      {
+        "action": "raise",
+        "amount": {
+          "min": 20,
+          "max": 940
+        }
+      }
+    ],
+    "action_taken": "call",
+    "amount": 0,
+    "reward": null
+  },
+  "0 call:20",
+  "0 call:20",
+  "0 call:0"
+]
